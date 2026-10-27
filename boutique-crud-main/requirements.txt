@@ -1,0 +1,5 @@
+django
+gunicorn
+whitenoise
+mysqlclient
+django-cors-headers
